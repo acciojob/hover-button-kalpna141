@@ -2,11 +2,13 @@
 /* Your CSS Code here. */
 input{
 	background:black;
+	border:0px;
 	color:white;
 	border-radius:5px;
 }
 input:hover{
 	background:yellow;
 	color:black;
+	border:0px;
 	border-radius:30px;
 }
